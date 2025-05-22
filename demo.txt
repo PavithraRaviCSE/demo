@@ -1,2 +1,4 @@
 Another "this is new line"
 Another "this is new line"
+
+new line added
