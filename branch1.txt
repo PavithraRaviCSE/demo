@@ -1,2 +1,5 @@
 "branch 1 file"
 the is new line
+line6 
+line7 
+line8 
