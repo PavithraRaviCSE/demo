@@ -8,3 +8,4 @@ line10
 line11
 "new line form banch2" 
 "2nd line form banch2" 
+"git commit example for rebase"
